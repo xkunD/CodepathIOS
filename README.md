@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-/Users/duxiaokun/Downloads/ezgif-2-7183208df8.gif
+
+![](https://i.imgur.com/ZAKUTIS.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -35,6 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+It was difficult for me to understand the syntax of code when implementing its calculation. 
+
 
 ## License
 
